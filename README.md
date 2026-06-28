@@ -22,18 +22,18 @@ AI Use Disclosure
 
 ### Contributions
 
-1. To reproduce the Rust bus engine replacement model and construct dynamic programming solution objects as benchmark targets for neural approximation.
+1. To reproduce the Rust bus replacement model and construct benchmark dynamic programming solution objects for neural approximation.
 
-2. To analyze the computational bottlenecks in solving and estimating the Rust model, review the major approaches proposed to address them, and provide the theoretical motivation and methodological background for neural approximation methods.
+2. To analyze the computational bottlenecks of solving and estimating the Rust model, review the major methodological responses to these bottlenecks, and establish the motivation for neural approximation.
 
-3. To conduct a small-scale screening experiment to identify the most suitable learning target for further deep approximation research among three core solution objects with a hierarchical relationship within the Rust dynamic programming framework.
+3. To conduct a screening experiment that identifies the most suitable learning target among three hierarchically related solution objects in the Rust dynamic programming framework.
 
-4. To develop a structure-guided neural approximation framework that treats the selected learning target as a model solution and examines whether it can be learned and structurally recovered directly from the Rust model without relying on benchmark target values.
+4. To develop a structure-guided learning framework that examines whether the selected learning target can be recovered directly from the Rust model without relying on benchmark solution objects.
 
 ### Discussion 
 
-To discuss the unified structure-guided learning framework established in this study by integrating target selection, neural approximation, and structural recovery, and to examine the transition from data-driven to structure-guided learning and its implications for dynamic discrete choice models. 
+To discuss the unified structure-guided learning framework developed in this study by integrating target selection, neural approximation, and structural recovery, and to examine the transition from data-driven learning to structure-guided learning.
 
 ### Conclusion
 
-To reflect on the trade-off between classical dynamic programming and neural approximation from the perspective of dynamic decision-making and computational economics, and to establish a mirror logic whereby methodological replacement follows the same dynamic replacement logic as the Rust model.
+To reflect on the trade-off between classical dynamic programming and neural approximation from the perspective of computational economics, and to argue that methodological replacement follows the same dynamic replacement logic embodied in the Rust model.
